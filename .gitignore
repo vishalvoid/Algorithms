@@ -46,3 +46,5 @@ Thumbs.db
 .idea/workspace.xml
 .idea/usage.statistics.xml
 .idea/assetWizardSettings.xml
+.idea/*
+*/*/.idea/*
